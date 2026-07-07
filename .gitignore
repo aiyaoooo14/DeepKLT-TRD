@@ -1,0 +1,5 @@
+# 大文件二进制（超 GitHub 100MB 单文件限制，不入 git）
+# Chrome for Testing zip（~179MB，通过 klt-browser install 从 CDN 获取）
+src/chrome-for-testing-*.zip
+# 系统 Chrome RPM（已移除，改用 CFT 绿色版）
+src/google-chrome-*.rpm
